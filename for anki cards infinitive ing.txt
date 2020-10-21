@@ -23,18 +23,25 @@ spelling of long verbs that consist of two or more syllables that end with vowel
 spelling of long verbs that consist of two or more syllables that end with vowel(V) and consonant(C) with the last part not stressed (like vIsit + ing); visiTing
 spelling of verbs that end with vowel(V), vowel(V) and consonant(C) (like wait + ing); waiTing
 spelling of verbs that end with consonant(C) and consonant(C) (like help + ing); helPing
-spelling of verbs that spelling of verbs that end with -e, like ride + ing; ridING
-end with -y or -w, like enjoy or show + ing; enjoYing, shoWing
-spelling of verbs that end with -ie, like tie + ing; tYING
+spelling of verbs that end with -e (like ride + ing); ridING
+spelling of verbs that end with -y or -w (like enjoy or show + ing); enjoYing, shoWing
+spelling of verbs that end with -ie (like tie + ing); tYING
 # PRESENT SIMPLE
 passive voice; am/is/are + V3 (+ by ...)
 questions with always; Does Chris always work on Sundays?
 questions with usually; What do you usually do at weekends?
 spelling of verbs that end with -s, -sh or -ch, like pass, finish or watch + s; passES, finishES, watchES
-spelling of verbs that end with -y; like study) + s; studIES
+spelling of verbs that end with -y (like study) + s; studIES
+# FUTURE SIMPLE
+affirmative sentence; I + will + V
+negative sentence; I + will + not + V or I + won't + V
+interrogative sentence; Will + I + V?
 # PRESENT CONTINUOUS, FUTURE SIMPLE AND PRESENT SIMPLE
 the meaning of<br>I am going to do something; I have decided to do it, my intention is to do it
+the meaning of<br>I will do something; not arranged or decided future action
 the meaning of<br>Something is going to happen; we can see now that it is sure to happen
+tense<br>When you offer something; future simple
+tense<br>When you decide (but not decided before) to do something; future simple<br>(I'll or I think I'll or I don't think I'll)
 tense<br>I have arranged to do it or I have plan to do it; present continuous
 tense<br>for timetables, programmes, trains busses; present simple
 # PRESENT CONTINUOUS AND PRESENT SIMPLE
@@ -183,6 +190,15 @@ passive voice; has/have + been + V3 (+ by ...)
 has gone to somewhere; he is there now or on his way there
 has been to somewhere; he was somewhere but now he is here
 It's the first time something...<br>has happened or happens; has happened
+
+
+
+
+
+
+
+
+
 53
 enjoy +; V + ing
 mind +; V + ing
