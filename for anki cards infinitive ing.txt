@@ -32,10 +32,14 @@ questions with always; Does Chris always work on Sundays?
 questions with usually; What do you usually do at weekends?
 spelling of verbs that end with -s, -sh or -ch, like pass, finish or watch + s; passES, finishES, watchES
 spelling of verbs that end with -y (like study) + s; studIES
+to tell somebody to do or don't do something; V (Come here. Have a chocolate)<br>or<br>don't + V (Don't fall. Don't go)
+when you want people to do or not do things with you; Let's + V (Let's go)<br>or<br>Let's + not + V (Let's not have fish)<br>Let's = Let us
+Difference between <b>there is</b> and <b>it is</b>;We can start sentence with <b>there is</b> without previous knowledge of the thing we are going to talk about (There's a book on the table.)<br>Before using <b>it is</b> we should say about this thing in previous sentence or previous part of the same sentence (I like <b>this book</b>. <b>It’s</b> interesting.)
 # FUTURE SIMPLE
 affirmative sentence; I + will + V
 negative sentence; I + will + not + V or I + won't + V
 interrogative sentence; Will + I + V?
+how to use <b>there is</b> in future simple?; there will be
 # PRESENT CONTINUOUS, FUTURE SIMPLE AND PRESENT SIMPLE
 the meaning of<br>I am going to do something; I have decided to do it, my intention is to do it
 the meaning of<br>I will do something; not arranged or decided future action
@@ -154,6 +158,11 @@ one thing happened after another; past simple + past simple
 something happened in the middle of something else; past simple + past continuous
 # PAST SIMPLE
 passive voice; was/were + V3 (+ by ...)
+the meaning<br>He used to work here; he worked here before, but he doesn't work here now
+the negative of<br>used to; Didn't use to ...
+the question of<br>used to; Did you use to ... ?
+Can we say 'I use to ...' for the present?; No. We use <b>used to ...<b> only for the past
+how to use <b>there is</b> in past simple?; <b>there was</b> or <b>there were</b>
 # PAST CONTINUOUS AND PAST SIMPLE
 tense - unfinished past action; past continuous
 tense - complete past action; past simple
@@ -190,6 +199,7 @@ passive voice; has/have + been + V3 (+ by ...)
 has gone to somewhere; he is there now or on his way there
 has been to somewhere; he was somewhere but now he is here
 It's the first time something...<br>has happened or happens; has happened
+how to use <b>there is</b> in present perfect?; <b>there have been</b> or <b>there has been</b>
 # MODAL VERBS
 the meaning of<br>I might/may (not) do something; it is possible that I will (not) do something
 the meaning of<br>I can (not) do something; I know how to do it, or it is possible for me to do it
@@ -204,9 +214,17 @@ the meaning of<br>I mustn't do something; it is necessary not to do it, it is th
 the meaning of<br>I don't need to do something;  it is not necessary
 the meaning of<br>I don't have to do something;  it is not necessary
 what to use instead of "must" in the past?; had to
-
-
-
+the meaning of<br>You should do something; it is a good thing to do, it is the right thing to do
+the meaning of<br>You shouldn't do something; it is not a good thing to do
+which is stronger<br>must or should; must
+modal with same meaning to should; ought to
+the meaning of<br>I have to do something; it is necessary for me to do it, I am obliged to do it
+modal verb to say what you think is necessary, when you give your opinion; must or have to (You must see it. or You have to see it.)
+modal verb to say something is necessary, but it's not your opinion; have to (Jane won't be at work this afternoon. She has to go to the doctor.)
+the meaning of<br>I'd like; is a polite way to say 'I want'
+the meaning of<br>Would you like ... ?; Do you want ... ?
+the using of<br>Would you like ... ?; to offer things, to invite somebody
+difference between<br>Would you like ... ? and Do you like ... ?; Would you like some tea? = Do you want some tea?<br>Do you like tea? = Do you think tea is nice?
 
 
 
