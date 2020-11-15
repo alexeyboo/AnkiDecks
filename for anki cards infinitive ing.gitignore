@@ -68,7 +68,6 @@ time marker - still; present continuous or present perfect - subject + still + h
 time marker - at the moment; present continuous
 time marker - currently; present continuous
 time marker - tonight; present continuous or present simple or future simple
-time marker - at the moment; present continuous
 time marker - at present; present continuous
 time marker - nowadays; present continuous
 usage present simple or continuous - get; changes happening around now, present continuous
@@ -107,7 +106,6 @@ time marker - from time to time; present simple
 time marker - frequently; present simple
 time marker - seldom; present simple
 time marker - occasionally; present simple
-time marker - usually; present simple
 usage simple or continuous - admire; simple
 usage simple or continuous - adore; simple
 usage simple or continuous - detest; simple
@@ -312,3 +310,7 @@ go; ski)ing
 go; jog)ging
 go; shop)ping
 go; sight)seeing
+# THAT/WHAT
+rule for what/that; if this world can be clarified right after it, then it is <b>what</b>, otherwise it is <b>that</b><br>She knew what (information) she would tell her boss
+She knew that/what I would come; that
+She knew that/what I would buy; what

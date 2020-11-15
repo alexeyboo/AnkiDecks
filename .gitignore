@@ -1,0 +1,4 @@
+*.pdf
+/CD
+/.idea
+/src/Test.java
