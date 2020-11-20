@@ -2,15 +2,17 @@ import java.util.HashMap;
 
 public class Test {
 	public static void main(String[] args) {
-		HashMap<String, Integer> objectObjectHashMap = new HashMap<>();
-		objectObjectHashMap.put("1", 1);
-		objectObjectHashMap.put("2", 2);
-		objectObjectHashMap.get("1");
-
-		if (true) {
-			System.out.println(1);
-		} else {
-			System.out.println(2);
-		}
+		byte a = (byte) 0xf1;
+		byte b = (byte) (a >> 4);
+		byte c = (byte) (a >>> 4);
+		byte d = (byte) ((a & 0xff) >> 4);
+		System.out.println(a);
+		System.out.println(b);
+		System.out.println(c);
+		System.out.println(d);
+		System.out.println(Integer.toBinaryString(a));
+		System.out.println(Integer.toBinaryString(b));
+		System.out.println(Integer.toBinaryString(c));
+		System.out.println(Integer.toBinaryString(d));
 	}
 }
